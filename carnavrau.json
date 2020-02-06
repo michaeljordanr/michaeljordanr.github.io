@@ -1,0 +1,107 @@
+{
+    "remote_config": {
+        "carnavrau": true
+    },
+    "blocos": [
+            {
+			"endereco_bloco": "Alameda Barão de Piracicaba, 610",
+            "latitude": "-23.5314753",
+            "longitude": "-46.6446687",
+            "detalhe_bloco": {
+                "data_bloco": "23/02/20",
+                "hora_inicio": "14:00",
+                "hora_fim": "19:00",
+                "nome_bloco": "Bloco Afro Ilú Obá De Min",
+                "endereco_fim": "Alameda Cleveland",
+                "publico_bloco": "5000",
+                "estilo_bloco": "Afro",
+                "perfil_bloco": "Afro"
+            }
+			},
+			
+			            {
+			"endereco_bloco": "Alameda Barão de Piracicaba, 610",
+            "latitude": "-23.5314753",
+            "longitude": "-46.6446687",
+            "detalhe_bloco": {
+                "data_bloco": "23/02/20",
+                "hora_inicio": "14:00",
+                "hora_fim": "19:00",
+                "nome_bloco": "Bloco Afro Ilú Obá De Min",
+                "endereco_fim": "Alameda Cleveland",
+                "publico_bloco": "5000",
+                "estilo_bloco": "Afro",
+                "perfil_bloco": "Afro"
+            }
+			},
+			
+			
+			            {
+			"endereco_bloco": "Alameda Barão de Piracicaba, 610",
+            "latitude": "-23.5314753",
+            "longitude": "-46.6446687",
+            "detalhe_bloco": {
+                "data_bloco": "23/02/20",
+                "hora_inicio": "14:00",
+                "hora_fim": "19:00",
+                "nome_bloco": "Bloco Afro Ilú Obá De Min",
+                "endereco_fim": "Alameda Cleveland",
+                "publico_bloco": "5000",
+                "estilo_bloco": "Afro",
+                "perfil_bloco": "Afro"
+            }
+			},
+			
+			            {
+			"endereco_bloco": "Alameda Barão de Piracicaba, 610",
+            "latitude": "-23.5314753",
+            "longitude": "-46.6446687",
+            "detalhe_bloco": {
+                "data_bloco": "23/02/20",
+                "hora_inicio": "14:00",
+                "hora_fim": "19:00",
+                "nome_bloco": "Bloco Afro Ilú Obá De Min",
+                "endereco_fim": "Alameda Cleveland",
+                "publico_bloco": "5000",
+                "estilo_bloco": "Afro",
+                "perfil_bloco": "Afro"
+            }
+			},
+			{
+            "endereco_bloco": "Rua Viri, 205",
+            "lat": "-23.4967827",
+            "long": "-46.6131184",
+            "detalhe_bloco": [{
+                "data_bloco": "15/02/20",
+                "hora_inicio": "13:00",
+                "hora_fim": "17:00",
+                "nome_bloco": "BLOCO DO MANDELA",
+                "endereco_fim": "Pq Domingos Luis",
+                "publico_bloco": "1000",
+                "estilo_bloco": "Samba",
+                "perfil_bloco": "Temático"
+            },
+            {
+                "data_bloco": "24/02/20",
+                "hora_inicio": "14:00",
+                "hora_fim": "19:00",
+                "nome_bloco": "Amigos do Boi",
+                "endereco_fim": "Pq. Domingos Luis",
+                "publico_bloco": "500",
+                "estilo_bloco": "Toadas",
+                "perfil_bloco": "Temático"
+            },
+            {
+                "data_bloco": "01/03/20",
+                "hora_inicio": "14:00",
+                "hora_fim": "19:00",
+                "nome_bloco": "BLOCO TERREIRÃO SP",
+                "endereco_fim": "Pq Domingos Luis",
+                "publico_bloco": "700",
+                "estilo_bloco": "Samba",
+                "perfil_bloco": "Familiar"
+            }
+			]
+        }
+    ]
+	}
